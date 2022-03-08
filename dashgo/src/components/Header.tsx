@@ -12,6 +12,7 @@ export function Header() {
             mt="4"
             px="6"
             align="center"
+            mb="8"
         >
             <Text 
                 fontSize="3xl"
